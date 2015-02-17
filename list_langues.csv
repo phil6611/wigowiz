@@ -1,0 +1,295 @@
+Numéro	Locale	langue
+[0]	af	Afrikaans
+[1]	af_NA	
+[2]	af_ZA	
+[3]	am	Amharique
+[4]	am_ET	
+[5]	ar	Arabe
+[6]	ar_AE	
+[7]	ar_BH	
+[8]	ar_DZ	
+[9]	ar_EG	
+[10]	ar_IQ	
+[11]	ar_JO	
+[12]	ar_KW	
+[13]	ar_LB	
+[14]	ar_LY	
+[15]	ar_MA	
+[16]	ar_OM	
+[17]	ar_QA	
+[18]	ar_SA	
+[19]	ar_SD	
+[20]	ar_SY	
+[21]	ar_TN	
+[22]	ar_YE	
+[23]	as	Assamais
+[24]	as_IN	
+[25]	az	Azéri
+[26]	az_Cyrl	
+[27]	az_Cyrl_AZ	
+[28]	az_Latn	
+[29]	az_Latn_AZ	
+[30]	be	Biélorusse
+[31]	be_BY	
+[32]	bg	Bulgare
+[33]	bg_BG	
+[34]	bn	Bengali
+[35]	bn_BD	
+[36]	bn_IN	
+[37]	bo	Tibétain
+[38]	bo_CN	
+[39]	bo_IN	
+[40]	ca	Catalan
+[41]	ca_ES	
+[42]	cs	tchèque
+[43]	cs_CZ	
+[44]	cy	Gallois
+[45]	cy_GB	
+[46]	da	danois
+[47]	da_DK	
+[48]	de	Allemand
+[49]	de_AT	
+[50]	de_BE	
+[51]	de_CH	
+[52]	de_DE	
+[53]	de_LI	
+[54]	de_LU	
+[55]	el	Grec moderne
+[56]	el_CY	
+[57]	el_GR	
+[58]	en	Anglais
+[59]	en_AU	
+[60]	en_BE	
+[61]	en_BW	
+[62]	en_BZ	
+[63]	en_CA	
+[64]	en_GB	
+[65]	en_HK	
+[66]	en_IE	
+[67]	en_IN	
+[68]	en_JM	
+[69]	en_MH	
+[70]	en_MT	
+[71]	en_NA	
+[72]	en_NZ	
+[73]	en_PH	
+[74]	en_PK	
+[75]	en_SG	
+[76]	en_TT	
+[77]	en_US	
+[78]	en_US_POSIX	
+[79]	en_VI	
+[80]	en_ZA	
+[81]	en_ZW	
+[82]	eo	Espéranto
+[83]	es	Espagnol
+[84]	es_AR	
+[85]	es_BO	
+[86]	es_CL	
+[87]	es_CO	
+[88]	es_CR	
+[89]	es_DO	
+[90]	es_EC	
+[91]	es_ES	
+[92]	es_GT	
+[93]	es_HN	
+[94]	es_MX	
+[95]	es_NI	
+[96]	es_PA	
+[97]	es_PE	
+[98]	es_PR	
+[99]	es_PY	
+[100]	es_SV	
+[101]	es_US	
+[102]	es_UY	
+[103]	es_VE	
+[104]	et	Estonien
+[105]	et_EE	
+[106]	eu	basque
+[107]	eu_ES	
+[108]	fa	Persan
+[109]	fa_AF	
+[110]	fa_IR	
+[111]	fi	Finnois
+[112]	fi_FI	
+[113]	fo	Féroïen
+[114]	fo_FO	
+[115]	fr	Français
+[116]	fr_BE	
+[117]	fr_CA	
+[118]	fr_CH	
+[119]	fr_FR	
+[120]	fr_LU	
+[121]	fr_MC	
+[122]	fr_SN	
+[123]	ga	Irlandais
+[124]	ga_IE	
+[125]	gl	Galicien
+[126]	gl_ES	
+[127]	gsw	suisse alémanique
+[128]	gsw_CH	
+[129]	gu	Gujarati
+[130]	gu_IN	
+[131]	gv	Mannois
+[132]	gv_GB	
+[133]	ha	Haoussa
+[134]	ha_Latn	
+[135]	ha_Latn_GH	
+[136]	ha_Latn_NE	
+[137]	ha_Latn_NG	
+[138]	haw	hawaïen
+[139]	haw_US	
+[140]	he	hébreu
+[141]	he_IL	
+[142]	hi	Hindi
+[143]	hi_IN	
+[144]	hr	Croate
+[145]	hr_HR	
+[146]	hu	hongrois
+[147]	hu_HU	
+[148]	hy	Arménien
+[149]	hy_AM	
+[150]	hy_AM_REVISED	
+[151]	id	Indonésien
+[152]	id_ID	
+[153]	ii	Yi
+[154]	ii_CN	
+[155]	is	Islandais
+[156]	is_IS	
+[157]	it	Italien
+[158]	it_CH	
+[159]	it_IT	
+[160]	ja	japonais
+[161]	ja_JP	
+[162]	ka	Géorgien
+[163]	ka_GE	
+[164]	kk	Kazakh
+[165]	kk_Cyrl	
+[166]	kk_Cyrl_KZ	
+[167]	kl	Groenlandais
+[168]	kl_GL	
+[169]	km	Khmer
+[170]	km_KH	
+[171]	kn	Kannada
+[172]	kn_IN	
+[173]	ko	Coréen
+[174]	ko_KR	
+[175]	kok	konkani
+[176]	kok_IN	
+[177]	kw	Cornique
+[178]	kw_GB	
+[179]	lt	Lituanien
+[180]	lt_LT	
+[181]	lv	Letton
+[182]	lv_LV	
+[183]	mk	Macédonien
+[184]	mk_MK	
+[185]	ml	Malayalam
+[186]	ml_IN	
+[187]	mr	Marathi
+[188]	mr_IN	
+[189]	ms	Malais
+[190]	ms_BN	
+[191]	ms_MY	
+[192]	mt	Maltais
+[193]	mt_MT	
+[194]	nb	Norvégien Bokmal
+[195]	nb_NO	
+[196]	ne	Népalais
+[197]	ne_IN	
+[198]	ne_NP	
+[199]	nl	néerlandais
+[200]	nl_BE	
+[201]	nl_NL	
+[202]	nn	Norvégien Nynorsk
+[203]	nn_NO	
+[204]	om	Oromo
+[205]	om_ET	
+[206]	om_KE	
+[207]	or	Oriya
+[208]	or_IN	
+[209]	pa	Pendjabi
+[210]	pa_Arab	
+[211]	pa_Arab_PK	
+[212]	pa_Guru	
+[213]	pa_Guru_IN	
+[214]	pl	polonais
+[215]	pl_PL	
+[216]	ps	Pachto
+[217]	ps_AF	
+[218]	pt	Portugais
+[219]	pt_BR	
+[220]	pt_PT	
+[221]	ro	Roumain
+[222]	ro_MD	
+[223]	ro_RO	
+[224]	ru	Russe
+[225]	ru_RU	
+[226]	ru_UA	
+[227]	si	Cingalais
+[228]	si_LK	
+[229]	sk	Slovaque
+[230]	sk_SK	
+[231]	sl	Slovène
+[232]	sl_SI	
+[233]	so	Somali
+[234]	so_DJ	
+[235]	so_ET	
+[236]	so_KE	
+[237]	so_SO	
+[238]	sq	Albanais
+[239]	sq_AL	
+[240]	sr	Serbe
+[241]	sr_Cyrl	
+[242]	sr_Cyrl_BA	
+[243]	sr_Cyrl_ME	
+[244]	sr_Cyrl_RS	
+[245]	sr_Latn	
+[246]	sr_Latn_BA	
+[247]	sr_Latn_ME	
+[248]	sr_Latn_RS	
+[249]	sv	suédois
+[250]	sv_FI	
+[251]	sv_SE	
+[252]	sw	Swahili
+[253]	sw_KE	
+[254]	sw_TZ	
+[255]	ta	tamoul
+[256]	ta_IN	
+[257]	te	Télougou
+[258]	te_IN	
+[259]	th	Thaï
+[260]	th_TH	
+[261]	ti	Tigrigna
+[262]	ti_ER	
+[263]	ti_ET	
+[264]	tr	Turc
+[265]	tr_TR	
+[266]	uk	Ukrainien
+[267]	uk_UA	
+[268]	ur	Ourdou
+[269]	ur_IN	
+[270]	ur_PK	
+[271]	uz	Ouzbek
+[272]	uz_Arab	
+[273]	uz_Arab_AF	
+[274]	uz_Cyrl	
+[275]	uz_Cyrl_UZ	
+[276]	uz_Latn	
+[277]	uz_Latn_UZ	
+[278]	vi	Vietnamien
+[279]	vi_VN	
+[280]	zh	Chinois
+[281]	zh_Hans	
+[282]	zh_Hans_CN	
+[283]	zh_Hans_HK	
+[284]	zh_Hans_MO	
+[285]	zh_Hans_SG	
+[286]	zh_Hant	
+[287]	zh_Hant_HK	
+[288]	zh_Hant_MO	
+[289]	zh_Hant_TW	
+[290]	zu	
+[291]	zu_ZA	
+		
+		86
