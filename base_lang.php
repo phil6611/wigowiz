@@ -62,7 +62,7 @@ $LANG_meta_mots = "";
 //Barre des menus
 $LANG_vos_evenements = "";
 $LANG_infos_personnelles = "";
-$LANG_modifier_position_perso = "M";
+$LANG_modifier_position_perso = "";
 $LANG_mon_compte = "";
 $LANG_supprimer_compte = "";
 $LANG_menu_message = "";
